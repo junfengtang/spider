@@ -1,0 +1,1 @@
+# spider基于beautifuls简单的爬虫，爬去百度百科的1000条数据
